@@ -1,4 +1,4 @@
-*{
+* {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -154,7 +154,8 @@
     cursor: pointer;
 
 }
-.eye2{
+
+.eye2 {
     position: absolute;
     left: 26vw;
     top: 22.2vw;
@@ -165,6 +166,7 @@
     cursor: pointer;
 
 }
+
 .abstract {
     position: absolute;
     left: 16.8125vw;
@@ -320,16 +322,17 @@
     .eye {
         position: absolute;
         left: 80vw;
-        top: 169.5vw;
+        top: 168.5vw;
         bottom: 2.35644444444566vw;
         width: 3.025521vw;
         height: 2.229167vw;
         cursor: pointer;
     }
-    .eye2{
-        
-    left: 80vw;
-    top: 148.2vw;
+
+    .eye2 {
+
+        left: 80vw;
+        top: 147.2vw;
 
         bottom: 46.356444vw;
         width: 3.025521vw;

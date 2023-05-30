@@ -15,3 +15,11 @@ login.addEventListener('click',()=>{
     pass.style.border = '1px solid  #0E0E0E2B';
     email.style.border = '1px solid  #0E0E0E2B';
 })
+
+
+
+function scrollToTop(event) {
+    event.preventDefault(event);
+  
+}
+
