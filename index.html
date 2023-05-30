@@ -30,61 +30,59 @@
 <body>
   <div class="container-fluid form-container">
     <div class="row">
-      
+
       <!--login page image -->
       <div class="col-12 col-md-6 login-image-container order-md-2 d-flex justify-content-center  ">
         <!--login-page image -->
         <img class="login-image" src="./image/Group.png" alt="">
-        
+
         <!-- this is a circle div  to make the image colorful from background -->
         <div class="abstract"></div>
       </div>
-      
-      
+
+
       <!-- login page form container-->
       <div class="col-12 col-md-6 login-form-container order-md-1 bg-warnin">
-        
+
         <!-- logo -->
         <img class="logo" src="./image/Group 3.png" alt="">
-        
-        
+
+
         <!-- login form -->
         <div class="container px-0 login-form">
 
           <div class=" px-0 x">
             <!-- heading -->
             <h2 class="form-heading">Forget Password</h2>
+
+            <!-- showing the email -->
             <p class="mb-0 form-label">Email</p>
             <p class="small text-muted mb-4">email@abcd.com</p>
+
+
+            <!-- form start from here -->
             <form class="z">
               <div class="email-div">
+
+                <!-- new password  -->
                 <label for="email" class="form-label d-block">New Password</label>
                 <input type="password"
                   class="form-control py-0 d-flex justify-content-center align-items-center  form-control-mail"
                   id="email" placeholder="Enter new password" required>
-                  <img class="eye2" src="./image/Icon.png" alt="">
+                <img class="eye2" src="./image/Icon.png" alt="">
               </div>
+              
+              <!-- confirm password -->
               <div class="pass-div">
-                <label for="password" class="form-label d-block">Confirm  Password</label>
+                <label for="password" class="form-label d-block">Confirm Password</label>
                 <input type="password"
                   class="form-control py-0 d-flex justify-content-center align-items-center form-control-pass "
                   id="password" placeholder="Enter password again" required>
                 <img class="eye" src="./image/Icon.png" alt="">
               </div>
-              <!-- <div class="forgot-pass-div d-flex justify-content-between align-items-start  mb-0">
-                <span class="d-flex justify-content-center align-items-center remember_me">
-                  <input type="checkbox" id="remember" class="me-1 mt-0 form-check-input" name="remember">
-                  <label for="remember">Remember me</label>
-                  
-                </span>
+              
 
-
-
-                <a href="#" class="text-decoration-none forgot-password">Forgot Password?</a>
-
-
-
-              </div> -->
+              <!-- submit button -->
               <a type="submit" onclick="scrollToTop()" id="login" class="btn btn-primary login d-block">
                 <span>
                   Submit
