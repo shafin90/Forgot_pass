@@ -36,7 +36,7 @@
     font-weight: 600;
     font-size: 1.5vw;
     line-height: 1.1458333333333333vw;
-    margin-bottom: 2.0833333333333335vw;
+    margin-bottom: 2.5833333333333335vw;
     color: #0E0E0E;
 
 }
@@ -150,7 +150,7 @@
 .eye {
     position: absolute;
     left: 26vw;
-    top: 29.9vw;
+    top: 30vw;
 
     bottom: 2.35644444444566vw;
     width: 1.0255208333333334vw;
@@ -162,7 +162,7 @@
 .eye2 {
     position: absolute;
     left: 26vw;
-    top: 23.2vw;
+    top: 23.3vw;
 
     bottom: 2.35644444444566vw;
     width: 1.0255208333333334vw;
@@ -250,7 +250,7 @@
         font-weight: 700;
         font-size: 5.141667vw;
         line-height: 7.145833vw;
-        margin-bottom: 6.583333vw;
+        margin-bottom: 6.083333vw;
         color: #0E0E0E;
     }
 
