@@ -140,9 +140,9 @@
 
 .login-image {
     /* margin-top: 10.677083333333334vw; */
-    width: 25.2921875vw;
-    height: 25.9671875vw;
-    margin-top: 10.677083333333334vw;
+    width: 33.75vw;
+    height: 34.63vw;
+    margin-top: 9.26vw;
 
 }
 
@@ -171,12 +171,13 @@
 
 }
 
+
 .abstract {
     position: absolute;
     left: 16.8125vw;
     top: 24.177083vw;
-    width: 20.833333333333332vw;
-    height: 20.833333333333332vw;
+    width: 27.79vw;
+    height: 27.79vw;
     background: #1DBFFF;
     opacity: 0.8;
     filter: blur(15.625vw);
